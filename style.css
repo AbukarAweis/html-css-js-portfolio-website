@@ -287,6 +287,10 @@ section {
     cursor:default;
 }
 
+.main-text {
+    font-size: larger;
+}
+
 .details-containers {
     padding: 1.5rem;
     flex: 1;
