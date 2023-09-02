@@ -283,6 +283,10 @@ section {
     bottom: 2.5rem;
 }
 
+.education-icon {
+    cursor:default;
+}
+
 .details-containers {
     padding: 1.5rem;
     flex: 1;
